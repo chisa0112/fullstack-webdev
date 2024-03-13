@@ -3,7 +3,7 @@
 namespace view\login;
 
 function index()
-{
+{//
 ?>
     <h1 class="sr-only">ログイン</h1>
     <div class="mt-5">
